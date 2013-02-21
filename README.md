@@ -1,9 +1,8 @@
 TDD-demo
 ========
-<br/>
-Simple .NET 4.5 TDD Demo project.
 
-<br/><br/>
+Simple .NET 4.5 TDD Demo project.
+<br/>
 Uses:<br/>
 <a href="http://code.google.com/p/moq/wiki/QuickStart">Moq</a><br/>
 <a href="http://www.nunit.org/">NUnit</a><br/>
@@ -11,5 +10,5 @@ Uses:<br/>
 <a href="http://ravendb.net/">RavenDB</a><br/>
 <br/>
 <br/>
-(and <a href="http://twitter.github.com/bootstrap/>Twitter Bootstrap</a>)
+(and <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>)
 
