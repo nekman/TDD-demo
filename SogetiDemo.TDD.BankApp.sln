@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SogetiDemo.TDD.BankApp.Web", "SogetiDemo.TDD.BankApp.Web\SogetiDemo.TDD.BankApp.Web.csproj", "{43D570E0-220C-4FF5-9F23-216A8B6A8002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SogetiDemo.TDD.BankApp.Tests", "SogetiDemo.TDD.BankApp.Tests\SogetiDemo.TDD.BankApp.Tests.csproj", "{A0924233-727E-496E-81C7-B5B8B3D0C8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SogetiDemo.TDD.BankApp.Repository", "SogetiDemo.TDD.BankApp.Repository\SogetiDemo.TDD.BankApp.Repository.csproj", "{F266F970-B8B3-498D-A6E3-E6D42DA05D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SogetiDemo.TDD.BankApp.Common", "SogetiDemo.TDD.BankApp.Common\SogetiDemo.TDD.BankApp.Common.csproj", "{AD6BC93F-816E-4C24-984E-237BE8A29E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SogetiDemo.TDD.BankApp.Services", "SogetiDemo.TDD.BankApp.Services\SogetiDemo.TDD.BankApp.Services.csproj", "{A2BA60DF-5C69-4FCD-A574-C5A391C7A1E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D570E0-220C-4FF5-9F23-216A8B6A8002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D570E0-220C-4FF5-9F23-216A8B6A8002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D570E0-220C-4FF5-9F23-216A8B6A8002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D570E0-220C-4FF5-9F23-216A8B6A8002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0924233-727E-496E-81C7-B5B8B3D0C8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0924233-727E-496E-81C7-B5B8B3D0C8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0924233-727E-496E-81C7-B5B8B3D0C8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0924233-727E-496E-81C7-B5B8B3D0C8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F266F970-B8B3-498D-A6E3-E6D42DA05D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F266F970-B8B3-498D-A6E3-E6D42DA05D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F266F970-B8B3-498D-A6E3-E6D42DA05D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F266F970-B8B3-498D-A6E3-E6D42DA05D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6BC93F-816E-4C24-984E-237BE8A29E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6BC93F-816E-4C24-984E-237BE8A29E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6BC93F-816E-4C24-984E-237BE8A29E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6BC93F-816E-4C24-984E-237BE8A29E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BA60DF-5C69-4FCD-A574-C5A391C7A1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BA60DF-5C69-4FCD-A574-C5A391C7A1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BA60DF-5C69-4FCD-A574-C5A391C7A1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BA60DF-5C69-4FCD-A574-C5A391C7A1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
